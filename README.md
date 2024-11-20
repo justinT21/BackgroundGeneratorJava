@@ -7,3 +7,5 @@ Code to create a background grid stored in a custom HashTable from an image. Mor
 ## Get Started
 
 To use this, copy the BackgroundGenerator.java file into your code and then use it as described.
+
+Image from this link: https://francemap360.com/img/1200/france-road-map.jpg
